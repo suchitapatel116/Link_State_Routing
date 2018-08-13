@@ -1,1 +1,0 @@
-java -jar LinkStateRoutingProtocol.jar
